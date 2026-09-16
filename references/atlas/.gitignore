@@ -1,0 +1,10 @@
+# Raw upstream snapshot -- re-fetchable, deliberately not committed.
+# Deleting this directory and re-running `python3 build.py` refetches from FMHY.
+data/raw/
+
+# Full-text output, if it is ever generated with `--with-prose`.
+data/fulltext/
+
+__pycache__/
+*.pyc
+.DS_Store

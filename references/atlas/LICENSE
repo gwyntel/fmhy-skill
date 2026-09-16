@@ -1,0 +1,29 @@
+FMHY Atlas — the code, structure and index in this repository
+=============================================================
+
+To the extent possible under law, the authors of FMHY Atlas have waived all
+copyright and related or neighbouring rights to the code, structure and index in
+this repository (build.py, README.md, manifest.json, links.jsonl, the layout of
+references/ and the schema of each file) under the Creative Commons CC0 1.0
+Universal Public Domain Dedication.
+
+You should have received a copy of the legal code along with this work. If not,
+see <https://creativecommons.org/publicdomain/zero/1.0/legalcode>.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+Scope — read this
+-----------------
+
+CC0 applies ONLY to FMHY Atlas's own code, structure and schema. It does NOT
+apply to the FMHY content indexed here.
+
+FMHY's wiki text, headings and link lines are FMHY's work and are reproduced in
+references/ for identification and indexing purposes only. FMHY publishes no
+content licence for its wiki, and FMHY Atlas is not a redistribution licence for
+
+The website source code of the upstream FMHY repository (github.com/fmhy/edit) is
+licensed Apache-2.0, Copyright (c) taskylizard. See README.md for the exact terms
+found and for the attribution FMHY should receive.
