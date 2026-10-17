@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/gwyntel/fmhy-skill)
+
 # fmhy-skill
 
 Agent skill for **finding vetted free media sources using the FMHY catalogue**
