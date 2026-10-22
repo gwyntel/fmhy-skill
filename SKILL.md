@@ -6,6 +6,9 @@ trigger: user requests free or pirated media (movies, TV, anime, music, books, m
 
 # FMHY Source Discovery
 
+## Agent and path portability
+This skill is agent-agnostic and uses only the bundled catalogue plus ordinary file-reading/search capabilities; it does not require Hermes-only tools. All `references/...` paths below are relative to this `SKILL.md`'s installed skill directory, not the agent's current working directory. If the host cannot expose or search bundled files, explain that limitation and ask for a readable skill checkout; do not silently treat the catalogue as unavailable or invent sources. Shell snippets are examples: adapt to available search/read tools while preserving the atlas-first and unsafe-list checks.
+
 ## Overview
 
 **FMHY** ("FreeMediaHeckYeah", `https://fmhy.net/`, mirrors also at `fmhy.net` variants and `r/FREEMEDIAHECKYEAH`) is a community-maintained, curated link catalogue of free and grey-area sources for media, software, learning, and tools. It is an **index, not a host** — it hosts no files, and every entry links out to a third-party site. Its value is that entries are *vetted and labelled*: FMHY marks trusted picks with `⭐`, notes popup/redirect ad behaviour, tags login/sign-up/invite requirements, and maintains an explicit **Unsafe Sites** page for malware-flagged or untrustworthy operators.
