@@ -15,8 +15,9 @@ it.
   AI tools, non-English), unsafe-site / malware avoidance, and video
   release-quality checks (CAM/TS/XviD/x265 flags).
 - `references/atlas/` — **FMHY-Atlas**: a verbatim offline mirror of the FMHY
-  wiki catalogue — 13 main pages (`references/atlas/references/wiki/`), plus
-  tools, changelogs, FAQ, and an Unsafe Sites blocklist. One markdown file
+  wiki catalogue — 13 main pages (`references/atlas/references/wiki/` in the
+  repository; `references/wiki/` relative to the atlas directory), plus tools,
+  changelogs, FAQ, and an Unsafe Sites blocklist. One markdown file
   per FMHY page, headings + link lines preserved. Greppable, no network
   required, and refreshable from upstream with the included `build.py`.
 
