@@ -61,7 +61,7 @@ git clone https://github.com/gwyntel/fmhy-skill <YOUR_SKILLS_DIR>/fmhy-skill
 
 ## Refreshing the atlas
 
-To refresh the bundled atlas from FMHY upstream (separate from updating this skill repository):
+Updating this skill repository does not refresh the bundled atlas. To refresh the atlas separately from FMHY upstream:
 
 ```bash
 cd <YOUR_SKILLS_DIR>/fmhy-skill/references/atlas
