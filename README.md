@@ -27,7 +27,11 @@ This skill is **source discovery and vetting only**. It does not operate
 torrent clients, manage downloads, or post-process files — pair it with your
 own download workflow.
 
+## Install
+
 ## Install with Vercel skills CLI
+
+Prerequisite: Node.js 22.20 or later.
 
 This repository publishes one skill at the root (`SKILL.md`). The canonical source is <https://github.com/gwyntel/fmhy-skill>.
 
@@ -55,9 +59,9 @@ For a manual checkout instead, clone the repository into your agent's skills dir
 git clone https://github.com/gwyntel/fmhy-skill <YOUR_SKILLS_DIR>/fmhy-skill
 ```
 
-To refresh the bundled atlas from FMHY upstream (separate from updating this skill repository):
-
 ## Refreshing the atlas
+
+To refresh the bundled atlas from FMHY upstream (separate from updating this skill repository):
 
 ```bash
 cd <YOUR_SKILLS_DIR>/fmhy-skill/references/atlas
